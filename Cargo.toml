@@ -1,0 +1,11 @@
+[package]
+name = "simpleshell"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = ""
+homepage = "https://github.com/mkapra/simpleshell"
+repository = "https://github.com/mkapra/simpleshell"
+readme = "README.md"
+
+[dependencies]
